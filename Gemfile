@@ -22,7 +22,7 @@ end
   gem 'jbuilder', '1.0.2'
 
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
-  # gem 'therubyracer', :platforms => :ruby
+ gem 'therubyracer', :platforms => :ruby
 
 #end
 
